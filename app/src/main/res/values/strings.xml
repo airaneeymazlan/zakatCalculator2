@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">zakatCalculator</string>
+
+    <string name="copyright">Copyright &#169; 2021 Airaneey &amp; Hany</string>
+    <string name="about_text">RCS2405B NOR AIRANEEY BINTI MAZLAN 2019475918</string>
+    <string name="about_text2">RCS2405B NURUL SAJDAHANY BINTI JOHARI 2019475918</string>
+
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+
+    <string name="buttonCalculate">Calculate</string>
+
+</resources>
